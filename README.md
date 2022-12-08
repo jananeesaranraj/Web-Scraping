@@ -15,7 +15,6 @@ As you work on this Challenge, remember that you’re strengthening the same cor
 3. Extracted the titles and preview text of the news articles from the scraped.
 
    * Stored each title-and-preview pair in a Python dictionary and gave each dictionary two keys: title and preview.
-     An example is the following:
      
    * Stored all the dictionaries in a Python list.
 
