@@ -18,7 +18,7 @@ As you work on this Challenge, remember that you’re strengthening the same cor
      
    * Stored all the dictionaries in a Python list.
 
-   * Printed the list notebook.
+   * Printed the list.
   
 4. Stored the scraped data by exporting them to a JSON file and loaded them in the MongoDB as well.
   
@@ -34,7 +34,7 @@ As you work on this Challenge, remember that you’re strengthening the same cor
   
    4. Examined the data types that are currently associated with each column and converted the data to appropriate data types.
   
-   5. Alalyzed the dataset and answered the questions.
+   5. Analyzed the dataset and answered the questions.
   
    6. Exported the dataframe to csv file.
    
